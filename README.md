@@ -1,4 +1,4 @@
-### Hii! 👋, I am Aman Deep 🙂 Glad to see you here!
+### Hii 👋, I am Aman Deep 🙂 Glad to see you here!
 
 <img src="https://img.shields.io/github/followers/adg1822?style=social"/>
 
