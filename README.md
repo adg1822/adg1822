@@ -14,23 +14,16 @@
 - 🏋  Apart from study stuff I love playing outdoor games like Cricket, Novel reading, Traveling .
 
 ---
-### GitHub Stats:
-<p align="center">
+<p>
+<p align="left">
   <a href="https://github.com/adg1822">
     <img src="https://github-readme-stats.vercel.app/api?username=adg1822&show_icons=true&hide=issues&theme=radical"/>
   </a>
-</p>
-
----
-
-### Top Languages: 
-<p align="center">
+<p align="right">
   <a href="https://github.com/adg1822">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adg1822&theme=radical" align="center" />
   </a>
 </p>
-
----
 
 ### Find Me On:
 <p align="center">
